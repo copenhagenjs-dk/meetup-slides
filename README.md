@@ -2,7 +2,7 @@
 
 The welcome presentations from each month meetups.
 
-https://copenhagenjs.github.io/meetup-slides/
+https://copenhagenjs-dk.github.io/meetup-slides/
 
 ## Development
 

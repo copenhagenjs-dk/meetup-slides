@@ -8,4 +8,4 @@ $ npx serve
 
 for development.
 
-Static page url: https://copenhagenjs.github.io/meetup-slides/index.html
+Static page url: https://copenhagenjs-dk.github.io/meetup-slides/index.html

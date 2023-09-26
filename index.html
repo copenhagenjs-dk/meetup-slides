@@ -1,32 +1,35 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8" />
-    <title>Slides</title>
-    <style>
-      html {
-        font-family: sans-serif;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>copenhagenjs slides</h1>
-    <script>
-      const main = async () => {
-        const response = await fetch(
-          "https://api.github.com/repos/copenhagenjs/meetup-slides/contents/"
-        );
-        const data = await response.json();
-        let htmlString = "<ul>";
-        for (let file of data) {
-          if (file.name.indexOf('20') === 0) {
-            htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
-          }
+
+<head>
+  <meta charset="utf-8" />
+  <title>Slides</title>
+  <style>
+    html {
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>copenhagenjs slides</h1>
+  <script>
+    const main = async () => {
+      const response = await fetch(
+        "https://api.github.com/repos/copenhagenjs-dk/meetup-slides/contents/"
+      );
+      const data = await response.json();
+      let htmlString = "<ul>";
+      for (let file of data) {
+        if (file.name.indexOf('20') === 0) {
+          htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
         }
-        htmlString += "</ul>";
-        document.body.innerHTML += htmlString;
-      };
-      main();
-    </script>
-  </body>
+      }
+      htmlString += "</ul>";
+      document.body.innerHTML += htmlString;
+    };
+    main();
+  </script>
+</body>
+
 </html>
