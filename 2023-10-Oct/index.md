@@ -25,7 +25,7 @@ class: middle, crowded
 18:10 Accessibility Testing - Olga Saukh
 18:40 Break with food and drinks
 19:15 Qwik and Resumability - Anders Kjær Damgaard
-19:45 Raffle with a JavaScript Quiz
+19:45 JavaScript Quiz and Raffle
 19:55 Group photo
 20:00 Socializing - Meet the community
 21:00 See you next time!
@@ -103,7 +103,14 @@ class: middle
 
 ---
 
-class: blue, middle, center
+class: darkblue, middle, center
+
+# Community News:
+## React Day Berlin 
+
+---
+
+class: white, middle, center
 
 # Where is the web now?
 
@@ -131,11 +138,17 @@ class: middle, center
 
 class: middle, center, yellow
 
-# Raffle and group photo in the end!
+# JavaScript Quiz and Raffle
 
 ---
 
 class: middle, center, blue
+
+# Group photo in the end!
+
+---
+
+class: middle, center, black
 
 # How can I be part of it?
 
@@ -167,7 +180,7 @@ class: middle, center, yellow
 
 ---
 
-class: yellow, middle, center
+class: darkblue, middle, center
 
 ## Next meetup - November
 
