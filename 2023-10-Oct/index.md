@@ -35,8 +35,6 @@ class: middle, crowded
 
 background-image: url(trustpilot.jpg)
 
---
-
 ---
 
 class: middle, black, center
