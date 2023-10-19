@@ -21,12 +21,11 @@ class: middle, crowded
 ```
 17:00 Doors open
 17:45 Welcome
-18:00 Lightning talk
-18:10 Accessibility Testing - Olga Saukh
-18:40 Break with food and drinks
-19:15 Qwik and Resumability - Anders Kjær Damgaard
-19:45 JavaScript Quiz and Raffle
-19:55 Group photo
+18:00 Accessibility Testing - Olga Saukh
+18:30 Break with food and drinks
+19:00 Qwik and Resumability - Anders Kjær Damgaard
+19:30 JavaScript Quiz and Raffle
+19:45 Group photo
 20:00 Socializing - Meet the community
 21:00 See you next time!
 ```
