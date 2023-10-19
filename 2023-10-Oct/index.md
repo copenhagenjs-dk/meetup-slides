@@ -14,6 +14,10 @@ class: middle, center, darkblue
 
 ---
 
+background-image: url(trustpilot.jpg)
+
+---
+
 class: middle, crowded
 
 ## .center[Agenda]
@@ -29,10 +33,6 @@ class: middle, crowded
 20:00 Socializing - Meet the community
 21:00 See you next time!
 ```
-
----
-
-background-image: url(trustpilot.jpg)
 
 ---
 
