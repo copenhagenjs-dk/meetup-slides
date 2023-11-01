@@ -22,7 +22,7 @@ class: middle, crowded
 17:00 Doors open
 17:45 Welcome
 18:00 Journey into Enigmatic Realms: Unraveling Mysteries through 
-      API Exploration - Jakub
+      API Exploration - Jakub Cioslowski
 18:30 Break with food and drinks
 19:15 Micro Frontends: Unlocking the startups within large 
       organisations - Björn Söderqvist
