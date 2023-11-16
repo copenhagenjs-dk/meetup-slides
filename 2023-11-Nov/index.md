@@ -14,6 +14,14 @@ class: middle, center, darkblue
 
 ---
 
+background-image: url(prosa-1-l.jpeg)
+
+---
+
+background-image: url(prosa-2-l.jpeg)
+
+---
+
 class: middle, crowded
 
 ## .center[Agenda]
