@@ -22,6 +22,17 @@ background-image: url(prosa-2-l.jpeg)
 
 ---
 
+name: centered
+
+class: yellow, middle, center
+
+# Prosa contacts:
+
+## Bjarke Friborg, bfr@prosa.dk
+## Mirza Cirkinagic, mic@prosa.dk
+
+---
+
 class: middle, crowded
 
 ## .center[Agenda]
@@ -32,8 +43,8 @@ class: middle, crowded
 18:00 Journey into Enigmatic Realms: Unraveling Mysteries through 
       API Exploration - Jakub Cioslowski
 18:30 Break with food and drinks
-19:15 Micro Frontends: Unlocking the startups within large 
-      organisations - Björn Söderqvist
+19:15 HTMX and Node.js/Bun: A Dynamic Duo for Web Development 
+      - Alvaro Agámez
 19:45 Group photo
 19:50 Socializing - Meet the community
 21:00 See you next time!
