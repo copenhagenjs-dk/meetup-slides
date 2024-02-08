@@ -119,16 +119,6 @@ class: yellow, middle, center
 
 ---
 
-class: middle, center
-
-# Past talks
-
-## youtube.com/@copenhagenjs
-
-.footnote[Find us also on Twitter]
-
----
-
 class: middle, center, blue
 
 # Group photo in the end!
@@ -164,6 +154,18 @@ class: middle, center
 class: middle, center, yellow
 
 ## And now for our first presentation...
+
+---
+
+class: yellow, middle, center
+
+## Raffle
+
+# JSNation Conference 2024
+
+June 13th -17th, Amsterdam
+
+## and Veo Technologies T-shirts
 
 ---
 
