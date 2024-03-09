@@ -8,7 +8,7 @@ class: middle, center, blue
 
 ## BIG thanks to
 
-# Prosa 
+# PROSA 
 
 ## for hosting and food
 
