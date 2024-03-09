@@ -172,7 +172,7 @@ class: yellow, middle, center
 
 June 14th -18th, Amsterdam
 
-## and Prosa gift
+## and PROSA gift
 
 ---
 
