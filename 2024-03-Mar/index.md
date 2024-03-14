@@ -110,22 +110,6 @@ class: middle
 
 ---
 
-class: white, middle, center
-
-# Where is the web now?
-
----
-
-class: yellow, middle, center
-
-# We will be here
-
-# 10 years more...
-
-## with potential breaks
-
----
-
 class: middle, center, blue
 
 # Group photo in the end!
@@ -155,6 +139,18 @@ class: middle, center
 # to the CopenhagenJS stage
 
 .footnote[Tell everyone what you are passionate about]
+
+---
+
+class: middle, center, darkblue
+
+## ICEBREAKER
+
+Find somebody you know the LEAST and learn:
+
+their name
+
+a fun fact about them
 
 ---
 
