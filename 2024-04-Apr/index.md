@@ -134,7 +134,8 @@ class: middle, center, blue
 
 ## Copenhagen Developers Festival
 
-April 9, 2024 at DGI Byen
+26-30 August 2024
+Øksnehallen | Kødbyen, CPH
 
 .center.qrcode[![center-aligned image](qr.png)]
 
