@@ -21,9 +21,10 @@ class: middle, crowded
 ```
 17:00 Doors open
 17:45 Welcome
-18:00 First presentation
+18:00 Leveraging CSS Houdini for Realistic Particle Animation 
+      - Alexey Taktarov
 18:30 Break with food and drinks
-19:15 Typescript, you and AI Search - Daniel Madalitso Phiri
+19:15 Typescript, You and AI Search - Daniel Madalitso Phiri
 19:45 Raffle
 19:55 Group photo
 19:50 Socializing - Meet the community
