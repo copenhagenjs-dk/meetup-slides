@@ -162,7 +162,11 @@ class: white, middle, center
 
 # Raffle
 
-## Netlight gift
+## React Summit 2024
+
+June 14th -18th, Amsterdam
+
+## + Netlight gifts
 
 ---
 
