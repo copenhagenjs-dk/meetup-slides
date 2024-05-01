@@ -21,9 +21,11 @@ class: middle, crowded
 ```
 17:00 Doors open
 17:45 Welcome
-18:00 Too Good To Go 
+18:00 Plugin system for web applications with WebAssembly/QuickJS 
+      - Martin Vicen
 18:30 Break with food and drinks
-19:15 The Unreasonable Effectiveness of Typescript - Denis Lukichev
+19:15 The Unreasonable Effectiveness of Typescript 
+      - Denis Lukichev
 19:45 Raffle
 19:55 Group photo
 19:50 Socializing - Meet the community
@@ -137,6 +139,19 @@ class: middle, center, blue
 June 27, 2024 - Paris, France
 
 ---
+
+class: middle, center, yellow
+
+.center[![image](dotjs.png)]
+
+---
+
+class: middle, center, black
+
+.center[![image](dotjs2.png)]
+
+---
+
 
 class: middle, center, yellow
 
