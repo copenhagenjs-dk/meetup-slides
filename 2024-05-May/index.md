@@ -153,7 +153,7 @@ class: middle, center, black
 ---
 
 
-class: middle, center, yellow
+class: middle, center, white
 
 # ICEBREAKER
 
@@ -169,13 +169,15 @@ class: middle, center, darkblue
 
 ---
 
-class: white, middle, center
+class: yellow, middle, center
 
 # Raffle
 
-## dotJS
+## + dotJS
 
 June 27, 2024 - Paris, France
+
+## + Quokka.js, Wallaby.js, Console Ninja Personal licenses
 
 ## + Too Good To Go gifts
 
