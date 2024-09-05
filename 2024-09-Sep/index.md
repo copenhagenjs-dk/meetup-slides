@@ -163,7 +163,7 @@ class: yellow, middle, center
 # Raffle
 
 ## GAN Integrity gifts
-
+## & Advanced React London ticket
 ## & Quokka.js, Wallaby.js, Console Ninja 
 ## personal licenses
 
