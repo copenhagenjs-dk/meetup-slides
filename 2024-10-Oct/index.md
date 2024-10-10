@@ -71,6 +71,8 @@ class: middle, center
 .left.avatar[![left-aligned image](zoey.png)]
 .center.avatar[![left-aligned image](jonathan.png)]
 .right.avatar[![center-aligned image](svetlana.jpg)]
+
+.left.avatar[![right-aligned image](john.jpg)]
 .right.avatar[![right-aligned image](you.png)]
 
 ---
