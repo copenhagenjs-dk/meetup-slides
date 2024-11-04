@@ -65,7 +65,7 @@ class: middle, center
 ## Behind CopenhagenJS
 
 .right.avatar[![right-aligned image](you.png)]
-.right.avatar[![right-aligned image](you.png)]
+.right.avatar[![right-aligned image](islam.jpg)]
 
 .left.avatar[![left-aligned image](zoey.png)]
 .center.avatar[![left-aligned image](jonathan.png)]
