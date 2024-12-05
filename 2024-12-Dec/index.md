@@ -147,7 +147,7 @@ class: middle, center, blue
 
 Find somebody you know the LEAST and learn:
 
-## Their name and a fun fact about them
+## Their name and a what’s something new they’ve learned about themself in the last three months?
 
 ---
 
