@@ -117,8 +117,6 @@ class: middle, yellow, center
 
 ---
 
----
-
 class: middle, yellow, center
 
 # New Signup Flow: Bonus
