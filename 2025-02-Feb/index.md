@@ -117,6 +117,22 @@ class: middle, yellow, center
 
 ---
 
+---
+
+class: middle, yellow, center
+
+# New Signup Flow: Bonus
+
+We asked you for your home town and country. Together we have travelled 
+
+# 90259 kilometers*
+
+to be here tonight, so thank you!
+
+\* of the people we know of, question was optional, map projection may vary
+
+---
+
 class: middle, blue, center
 
 # How can I be part of it?
