@@ -163,8 +163,7 @@ class: middle, center, blue
 
 Find somebody you know the LEAST and learn:
 
-## Their name and what is something new they have learned about 
-## themselves in the last three months?
+## Their name and what is something new they have learned about themselves in the last three months?
 
 ---
 
@@ -178,9 +177,17 @@ class: yellow, middle, center
 
 # Raffle
 
+## Veo merch
 ## Ticket for JSNation conference
-June 12 (hybrid in Amsterdam) &
-June 16 (remote), 2025
+June 12 (hybrid in Amsterdam) & June 16 (remote), 2025
+## Ticket for CityJS London
+April 23-25 London
+
+---
+
+class: black, middle, center
+
+background-image: url(cityjs.png)
 
 ---
 
