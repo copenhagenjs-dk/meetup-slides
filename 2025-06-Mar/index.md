@@ -4,7 +4,7 @@ class: yellow, middle, center
 
 ---
 
-class: middle, center, veogreen
+class: middle, center, karnovyellow
 
 ## BIG thanks to
 
@@ -22,7 +22,8 @@ class: middle, crowded
 ```
 17:00 Doors open
 17:45 Welcome
-18:00 No build: Writing JS for the browser without a build step - Rohit Sharma
+18:00 No build: Writing JS for the browser without a build step 
+      - Rohit Sharma
 18:30 Break with food and drinks
 19:15 Money is Not a Number - Jonathan M. Hethey
 19:45 Raffle
@@ -115,20 +116,6 @@ class: middle, yellow, center
 
 ---
 
-class: middle, yellow, center
-
-# New Signup Flow: Bonus
-
-We asked you for your home town and country. Together we have travelled 
-
-# 90259 kilometers*
-
-to be here tonight, so thank you!
-
-\* of the people we know of, question was optional, map projection may vary
-
----
-
 class: middle, blue, center
 
 # How can I be part of it?
@@ -161,7 +148,7 @@ class: middle, center, blue
 
 Find somebody you know the LEAST and learn:
 
-## Their name and what is something new they have learned about themselves in the last three months?
+## Their name and What they achieved this week? 🙂
 
 ---
 
@@ -175,23 +162,14 @@ class: yellow, middle, center
 
 # Raffle
 
-## Veo merch
-## Ticket for JSNation conference
-June 12 (hybrid in Amsterdam) & June 16 (remote), 2025
-## Ticket for CityJS London
-April 23-25 London
+## Karnov merch
+
 
 ---
 
 class: black, middle, center
 
-background-image: url(cityjs.png)
-
----
-
-class: black, middle, center
-
-## Next meetup - March
+## Next meetup - April
 
 ## Call for future hosts and speakers
 
