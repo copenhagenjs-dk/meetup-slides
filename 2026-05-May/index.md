@@ -24,7 +24,7 @@ class: middle, crowded
 18:00 Ilya Korshunov - Rebuilding API Clients: Typed, Decoupled, Generated
 18:30 Break with food and drinks
 19:00 Tobbe Lundebrg - Postgres-to-React Realtime Data Sync Using GraphQL @live Queries
-19:30 Kenneth Geisshirt - Timestamps for the future: an brief introduction to Temporal
+19:30 Kenneth Geisshirt - Timestamps for the future: a brief introduction to Temporal
 20:00 Raffle
 20:05 Group photo
 20:00 Socializing - Meet the community
@@ -135,7 +135,7 @@ class: middle, center, blue
 Find somebody you know the LEAST and learn:
 
 ## Their name and one of their
-## favourite music genres
+## favourite music genres (while coding)
 
 ---
 
