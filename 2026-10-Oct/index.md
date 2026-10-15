@@ -147,7 +147,7 @@ class: middle, center, darkblue
 
 class: black, middle, center
 
-## Next meetup - October
+## Next meetup - November
 
 ## Call for future hosts and speakers
 
